@@ -41,7 +41,9 @@ customer_churn_pipeline/
 ├── customer_churn_pipeline.ipynb  # Model training notebook
 ├── WA_Fn-UseC_-Telco-Customer-Churn.csv  # Dataset (Kaggle)
 ```
-## 🧑‍💻 Author
-
+## 👤 Developer
 Apurva Bhoir
-This is a personal original project designed, coded, and created by me.
+--- 
+
+## 📜 License
+All rights reserved © Apurva Bhoir, 2025.
