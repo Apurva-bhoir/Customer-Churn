@@ -44,3 +44,4 @@ customer_churn_pipeline/
 ## 🧑‍💻 Author
 
 Apurva Bhoir
+This is a personal original project designed, coded, and created by me.
